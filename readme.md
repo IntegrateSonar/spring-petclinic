@@ -38,6 +38,7 @@ docker run -e MYSQL_ROOT_PASSWORD=petclinic -e MYSQL_DATABASE=petclinic -p 3306:
 ## Working with Petclinic in Eclipse/STS
 another line
 follow up
+follow up2
 
 ### prerequisites
 The following items should be installed in your system:
